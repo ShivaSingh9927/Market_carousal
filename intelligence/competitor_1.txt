@@ -1,0 +1,1 @@
+Error: 403 Client Error: Forbidden for url: https://openai.com/news
