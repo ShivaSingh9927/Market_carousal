@@ -1,0 +1,50 @@
+{
+    "strategy_summary": "Seedance 2.0: The Future of AI Video Production",
+    "slides": [
+        {
+            "topic": "The Death of Guesswork: Seedance 2.0 is Here",
+            "content": "The Death of Guesswork: Seedance 2.0 is Here ByteDance just shattered the ceiling of AI Video. Meet the first Quad-Modal engine that actually listens to you.",
+            "image_prompt": "Anime style: A futuristic female director with glowing cyan eyes standing in a dark, high-tech studio. She is surrounded by floating holographic screens displaying vibrant anime scenes. High cinematic lighting, Makoto Shinkai aesthetic."
+        },
+        {
+            "topic": "The Core Shift",
+            "content": "Stop Prompting. Start Directing. Traditional AI is a lottery. Seedance 2.0 uses a Unified Architecture to process Text, Image, Audio, and Video all at once. It doesn't just \"guess\"\u2014it executes.",
+            "image_prompt": "Anime style: Four pillars of concentrated elemental energy\u2014fire, water, wind, and lightning\u2014swirling together into a single, blinding core of light. Sharp lines, intense Ufotable-style particle effects."
+        },
+        {
+            "topic": "Multimodal Power",
+            "content": "Total Control Over Every Pixel Upload up to 12 reference files per generation. Use 9 images for style, 3 videos for motion, and 3 audio tracks for rhythm. Your vision is now a locked-in reality.",
+            "image_prompt": "Anime style: A top-down view of a glass desk covered in glowing \"memory shards\" (photos) and \"sound crystals\" (waveforms) being dragged into a central digital vortex. Cyberpunk aesthetic, neon accents."
+        },
+        {
+            "topic": "Real World Physics",
+            "content": "No More AI Glitches Seedance 2.0 understands Gravity and Momentum. Whether it is fabric flowing in the wind or complex figure skating, the Physical Simulation is flawless. No flickering. No melting.",
+            "image_prompt": "Anime style: A detailed close-up of a character's clothing rippling realistically in a storm, with raindrops bouncing off the fabric. Hyper-realistic physics, focus on textures and lighting."
+        },
+        {
+            "topic": "Global Identity Lock",
+            "content": "Identity That Never Drifts Solve the Character Consistency problem forever. The Identity Lock algorithm ensures your protagonist looks exactly the same in every shot, from facial features to clothing details.",
+            "image_prompt": "Anime style: Three different camera angles of the same anime protagonist\u2014one side profile, one extreme close-up, and one wide shot\u2014all displayed on a film strip. Perfect consistency, clean character sheets."
+        },
+        {
+            "topic": "Native Audio Sync",
+            "content": "Visuals Born From Sound No more awkward lip-syncing. Seedance 2.0 features Native Audio-Visual Co-generation. The AI builds the video synchronized to the beat and the dialogue in a single pass.",
+            "image_prompt": "Anime style: A character singing into a microphone with visible, glowing sound waves wrapping around them and transforming into cinematic scenery. Vibrant colors, Studio MAPPA style."
+        },
+        {
+            "topic": "Production Standards",
+            "content": "Big Screen Quality. Small Screen Speed. Export in 2K Resolution with professional aspect ratios. From 16:9 Cinematic to 9:16 Vertical, your output is ready for commercial use without watermarks.",
+            "image_prompt": "Anime style: A professional editing suite with multiple monitors showing a high-definition anime battle in 2K. A \"Render Complete\" notification glows on the screen. Tech-noir lighting."
+        },
+        {
+            "topic": "The Director Mode",
+            "content": "The @ Reference System Use the @ mention system to assign specific roles to your assets. Tell the AI: @Image1 for face, @Video1 for camera path, and @Audio1 for timing. Precision at scale.",
+            "image_prompt": "Anime style: A hand clicking on floating holographic tags labeled \"@FACE\", \"@MOTION\", and \"@RHYTHM\" in a futuristic command center. Intricate HUD overlays."
+        },
+        {
+            "topic": "Conclusion",
+            "content": "The Era of the Solo Studio Seedance 2.0 is the New Industry Standard. Available now on Jimeng AI and CapCut. The only limit left is your imagination.",
+            "image_prompt": "Anime style: A solitary figure standing on a balcony overlooking a futuristic Tokyo skyline at sunset. A massive digital sun is rising. Inspiring, grand scale, high-contrast colors."
+        }
+    ]
+}

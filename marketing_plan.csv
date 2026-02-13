@@ -1,2 +1,6 @@
-Day,Topic,Title,Description,Session 1,Session 2,Session 3,Benefits,Session 4,Company 
-"Monday","AIDA","Agentic AI for Healthcare","Improving Diagnostic Accuracy","What is Agentic AI?","How Agentic AI enhances clinical decision support systems","Nueralogic's multimodal CDSS solution","40% reduction in diagnostic TAT, 95% model sensitivity","Real-world applications of Agentic AI in healthcare","Nueralogic: Local-First AI"
+DAY,FRAMEWORK,TOPIC,ANGLE,CONTENT
+"Monday","PAS","AI Agents in Hospital Supply Chains","Introduction to AI Agents","Definition of AI Agents | Importance in Hospital Supply Chains | Current Challenges"
+"Tuesday","AIDA","Implementing AI Agents in Hospital Supply Chains","Implementation Strategies","Step-by-Step Implementation Guide | Best Practices for AI Agent Integration"
+"Wednesday","BAB","Benefits of AI Agents in Hospital Supply Chains","Success Stories","Case Study 1: Improved Supply Chain Efficiency | Case Study 2: Enhanced Patient Care"
+"Thursday","FAB","Technical Requirements for AI Agents in Hospital Supply Chains","Technical Deep Dive","Technical Requirements for AI Agents | System Architecture for AI Agent Integration"
+"Friday","4Ps","Overcoming Challenges with AI Agents in Hospital Supply Chains","Overcoming Challenges","Promise: Improved Supply Chain Efficiency | Picture: Real-World Examples | Proof: Data-Driven Results | Push: Call to Action"
